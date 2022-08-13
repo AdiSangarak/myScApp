@@ -8,7 +8,7 @@
 
 	<aop:config>
 		<aop:aspect id="log" ref="logging">
-			<aop:pointcut id="selectAll" expression="execution(* com.tutorialspoint.xmlschemabased.*.*(..))" />
+			<aop:pointcut id="selectAll" expression="execution(* in.adi.xmlschemabased.*.*(..))" />
 			<aop:before pointcut-ref="selectAll" method="beforeAdvice" />
 			<aop:after pointcut-ref="selectAll" method="afterAdvice" />
 			<aop:after-returning pointcut-ref="selectAll" returning="retVal" method="afterReturningAdvice" />

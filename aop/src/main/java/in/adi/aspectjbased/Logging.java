@@ -14,7 +14,7 @@ public class Logging {
 	 * Following is the definition for a pointcut to select all the methods
 	 * available. So advice will be called for all the methods.
 	 */
-	@Pointcut("execution(* com.tutorialspoint.aspectjbased.*.*(..))")
+	@Pointcut("execution(* in.adi.aspectjbased.*.*(..))")
 	private void selectAll() {
 	}
 

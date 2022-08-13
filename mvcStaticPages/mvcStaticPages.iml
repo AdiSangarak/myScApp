@@ -9,7 +9,17 @@
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/resources/WebContent" relative="/" />
         </webroots>
-        <sourceRoots />
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="TutorialsPoint_SpringMVC_StaticPages Servlet" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/WebContent/WEB-INF/TutorialsPoint_SpringMVC_StaticPages-servlet.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
