@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<!-- #####################AutoWiring By Name -->
+	<!-- Definition for textEditor bean -->
+	<bean id="textEditorByName" class="in.adi.autowiring.byname.TextEditor"
+		autowire="byName">
+		<property name="name" value="Generic Text Editor" />
+	</bean>
+
+	<!-- Definition for spellChecker bean -->
+	<bean id="spellChecker" class="in.adi.autowiring.byname.SpellChecker">
+	</bean>
+
+	<!-- #####################AutoWiring By Type -->
+	<!-- Definition for textEditor bean -->
+	<bean id="textEditorByType" class="in.adi.autowiring.bytype.TextEditor"
+		autowire="byType">
+		<property name="name" value="Generic Text Editor" />
+	</bean>
+
+	<!-- Definition for spellChecker bean -->
+	<bean id="SpellChecker" class="in.adi.autowiring.bytype.SpellChecker">
+	</bean>
+
+	<!-- #####################AutoWiring By Constructor -->
+	<!-- Definition for textEditor bean -->
+	<bean id="textEditorByConstructor" class="in.adi.autowiring.byconstructor.TextEditor"
+		autowire="constructor">
+		<constructor-arg value="Generic Text Editor" />
+	</bean>
+	
+</beans>

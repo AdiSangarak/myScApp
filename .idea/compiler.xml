@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mvcStaticPages" />
+        <module name="beanAutowiring" />
+        <module name="mvcExceptionHandling" />
+        <module name="mvcFormHandling" />
+        <module name="aop" />
+        <module name="dependencyInjection" />
+        <module name="injectingCollection" />
+        <module name="beanLifeCycle" />
+        <module name="eventHandling" />
+        <module name="jdbc" />
+        <module name="annotationBasedConfiguration" />
+        <module name="loggingWithLog4J" />
+        <module name="beanDefinitionInheritance" />
+        <module name="beanPostProcessor" />
+        <module name="mvcHelloWorld" />
+        <module name="mvcPageRedirection" />
+        <module name="injectingInnerBean" />
+        <module name="javaBasedConfig" />
+        <module name="helloWorld" />
+        <module name="beanScope" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotationBasedConfig" target="1.7" />
+      <module name="annotationBasedConfiguration" target="1.7" />
+      <module name="aop" target="1.7" />
+      <module name="beanAutowiring" target="1.7" />
+      <module name="beanDefinitionInheritance" target="1.7" />
+      <module name="beanLifeCycle" target="1.7" />
+      <module name="beanPostProcessor" target="1.7" />
+      <module name="beanScope" target="1.7" />
+      <module name="dependencyInjection" target="1.7" />
+      <module name="eventHandling" target="1.7" />
+      <module name="helloSpring" target="1.7" />
+      <module name="helloWorld" target="1.7" />
+      <module name="injectingCollection" target="1.7" />
+      <module name="injectingInnerBean" target="1.7" />
+      <module name="javaBasedConfig" target="1.7" />
+      <module name="jdbc" target="1.7" />
+      <module name="loggingWithLog4J" target="1.7" />
+      <module name="mvcExceptionHandling" target="1.7" />
+      <module name="mvcFormHandling" target="1.7" />
+      <module name="mvcHelloWorld" target="1.7" />
+      <module name="mvcPageRedirection" target="1.7" />
+      <module name="mvcStaticPages" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

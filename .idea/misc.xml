@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/aop/pom.xml" />
+        <option value="$PROJECT_DIR$/beanAutowiring/pom.xml" />
+        <option value="$PROJECT_DIR$/beanDefinitionInheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/beanLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/beanPostProcessor/pom.xml" />
+        <option value="$PROJECT_DIR$/beanScope/pom.xml" />
+        <option value="$PROJECT_DIR$/dependencyInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/eventHandling/pom.xml" />
+        <option value="$PROJECT_DIR$/injectingCollection/pom.xml" />
+        <option value="$PROJECT_DIR$/injectingInnerBean/pom.xml" />
+        <option value="$PROJECT_DIR$/javaBasedConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/oggingWithLog4J/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/mvcExceptionHandling/pom.xml" />
+        <option value="$PROJECT_DIR$/mvcFormHandling/pom.xml" />
+        <option value="$PROJECT_DIR$/mvcHelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/mvcPageRedirection/pom.xml" />
+        <option value="$PROJECT_DIR$/mvcStaticPages/pom.xml" />
+        <option value="$PROJECT_DIR$/loggingWithLog4J/pom.xml" />
+        <option value="$PROJECT_DIR$/helloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/annotationBasedConfiguration/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotationBasedConfiguration/annotationBasedConfiguration.iml" filepath="$PROJECT_DIR$/annotationBasedConfiguration/annotationBasedConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beanAutowiring/beanAutowiring.iml" filepath="$PROJECT_DIR$/beanAutowiring/beanAutowiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beanDefinitionInheritance/beanDefinitionInheritance.iml" filepath="$PROJECT_DIR$/beanDefinitionInheritance/beanDefinitionInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beanLifeCycle/beanLifeCycle.iml" filepath="$PROJECT_DIR$/beanLifeCycle/beanLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beanPostProcessor/beanPostProcessor.iml" filepath="$PROJECT_DIR$/beanPostProcessor/beanPostProcessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beanScope/beanScope.iml" filepath="$PROJECT_DIR$/beanScope/beanScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencyInjection/dependencyInjection.iml" filepath="$PROJECT_DIR$/dependencyInjection/dependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventHandling/eventHandling.iml" filepath="$PROJECT_DIR$/eventHandling/eventHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectingCollection/injectingCollection.iml" filepath="$PROJECT_DIR$/injectingCollection/injectingCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectingInnerBean/injectingInnerBean.iml" filepath="$PROJECT_DIR$/injectingInnerBean/injectingInnerBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasedConfig/javaBasedConfig.iml" filepath="$PROJECT_DIR$/javaBasedConfig/javaBasedConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loggingWithLog4J/loggingWithLog4J.iml" filepath="$PROJECT_DIR$/loggingWithLog4J/loggingWithLog4J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcExceptionHandling/mvcExceptionHandling.iml" filepath="$PROJECT_DIR$/mvcExceptionHandling/mvcExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcFormHandling/mvcFormHandling.iml" filepath="$PROJECT_DIR$/mvcFormHandling/mvcFormHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcHelloWorld/mvcHelloWorld.iml" filepath="$PROJECT_DIR$/mvcHelloWorld/mvcHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcPageRedirection/mvcPageRedirection.iml" filepath="$PROJECT_DIR$/mvcPageRedirection/mvcPageRedirection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcStaticPages/mvcStaticPages.iml" filepath="$PROJECT_DIR$/mvcStaticPages/mvcStaticPages.iml" />
+    </modules>
+  </component>
+</project>
