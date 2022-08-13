@@ -11,7 +11,32 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: spring-beans:spring-beans:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-context:spring-context:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-core:spring-core-expression:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-instrument:spring-instrument:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-instrument-tomcat:spring-instrument-tomcat:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-jdbc:spring-jdbc:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-jms:spring-jms:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-messaging:spring-messaging:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-orm:spring-orm:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-oxm:spring-oxm:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-test:spring-test:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-:spring-:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-tx:spring-tx:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-web:spring-web:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-webmvc:spring-webmvc:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-webmvc-portlet:spring-:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-websocket:spring-websocket:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-aop:spring-aop:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: spring-aspects:spring-aspects:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:5.0.4" level="project" />
+    <orderEntry type="library" name="Maven: aspectj:aspectj:1.6.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.servicemix.bundle:org.apache.servicemix.bundles.aopalliance:1.0_6" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Maven: aspectjrt:aspectjrt:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: cglib:cglib:2.2" level="project" />
+    <orderEntry type="library" name="Maven: aspectj-weaver:aspectj-weaver:1.6" level="project" />
+    <orderEntry type="library" name="libs" level="application" />
   </component>
 </module>
